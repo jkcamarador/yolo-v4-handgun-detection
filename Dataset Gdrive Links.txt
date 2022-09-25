@@ -1,5 +1,4 @@
-Training Data Set:
-https://drive.google.com/file/d/1LtpYmWsI3SVWAjt-GUgOK-5oLZksvlFb/view?usp=sharing
+Train: obj
+Test: test_dataset, test_google
 
-Testing Data Set:
-https://drive.google.com/file/d/1FAMHgbVVxIDxpOiZgIM8lDPV2KbzbdaZ/view?usp=sharing
+https://drive.google.com/drive/folders/13cjuwPmZp9c1s26E79wIdCcYUJ15tRwu?usp=sharing
